@@ -4,8 +4,7 @@
 
 I'm looking for opportunities that will help me grow as a professional and get some great experience
 
-
-<h4  align="left">Frontend languages and Tools:</h4>
+<h3  align="left">Frontend languages and Tools:</h3>
 <p align="left">
 <a href="https://reactjs.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="reactnative" width="55" height="55" /></a> &nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="javascript" width="48" height="48" /></a> &nbsp;
@@ -43,9 +42,11 @@ I'm looking for opportunities that will help me grow as a professional and get s
   <li>https://t.me/KristinaTheDev</li>
 </ul>
 
-<p align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=0&width=465&lines=Hey+there;I'm+Kristina;Frontend+developer;Always+learning+new+things" alt="Typing SVG"/></a>
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/5WILqPq29TyIkVCSej/giphy.gif" width="600" height="300"/>
+</div>
+
+
 
 <!---
 codesorceress/codesorceress is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
