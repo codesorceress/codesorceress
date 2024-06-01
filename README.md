@@ -5,8 +5,6 @@
 I'm looking for opportunities that will help me grow as a professional and get some great experience
 
 
-
-
 <h4  align="left">Frontend languages and Tools:</h4>
 <p align="left">
 <a href="https://reactjs.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="reactnative" width="55" height="55" /></a> &nbsp;
@@ -44,6 +42,10 @@ I'm looking for opportunities that will help me grow as a professional and get s
   <li>kristinafrdev@gmail.com</li>
   <li>https://t.me/KristinaTheDev</li>
 </ul>
+
+<p align="left">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=0&width=465&lines=Hey+there;I'm+Kristina;Frontend+developer;Always+learning+new+things" alt="Typing SVG"/></a>
+</p>
 
 <!---
 codesorceress/codesorceress is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
