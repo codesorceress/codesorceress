@@ -16,6 +16,7 @@ I'm looking for opportunities that will help me grow as a professional and get s
 <a href="https://vitejs.dev"> <img src="https://vitejs.dev/logo.svg" title="Vite.js" alt="vitejs" width="75" height="75" /></a> &nbsp;
 </p>
 
+
 <h2 align="left">Backend languages and Tools</h2>
 <p align="left">
 <a href="https://nodejs.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" title="Node.js" alt="nodejs" width="55" height="55" /></a> &nbsp;
