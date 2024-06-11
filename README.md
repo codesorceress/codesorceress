@@ -27,7 +27,7 @@ I'm looking for opportunities that will help me grow as a professional and get s
 
 <h2 align="left">Databases:</h2>
 <p align="left">
-<a href="https://www.mongodb.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" alt="mongodb" width="78" height="78" /></a> &nbsp;
+<a href="https://www.mongodb.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" alt="mongodb" width="88" height="88" /></a> &nbsp;
 </p>
 
 
