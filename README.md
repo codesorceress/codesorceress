@@ -8,8 +8,8 @@ I'm looking for opportunities that will help me grow as a professional and get s
 <h2  align="left">Frontend languages and Tools:</h2>
 <p align="left">
 <a href="https://reactjs.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="reactnative" width="85" height="85" /></a> &nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="javascript" width="78" height="78" /></a> &nbsp;
-<a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="typescript" width="78" height="78" /></a> &nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="javascript" width="80" height="80" /></a> &nbsp;
+<a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="typescript" width="80" height="80" /></a> &nbsp;
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width=80" height="80"/></a> &nbsp;
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="80" height="80"/></a> &nbsp;
 <a href="https://nextjs.org/"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" title="Next.js" alt="nextjs" width="90" height="90" /></a> &nbsp;
@@ -27,13 +27,13 @@ I'm looking for opportunities that will help me grow as a professional and get s
 
 <h2 align="left">Databases:</h2>
 <p align="left">
-<a href="https://www.mongodb.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" alt="mongodb" width="88" height="88" /></a> &nbsp;
+<a href="https://www.mongodb.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" alt="mongodb" width="90" height="90" /></a> &nbsp;
 </p>
 
 
 <h2 align="left">Other:</h2>
 <p align="left">
-<a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="GIT" alt="git" width="63" height="63" /></a> &nbsp;
+<a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="GIT" alt="git" width="60" height="60" /></a> &nbsp;
 <a href="#"> <img src="https://github.com/MalakhN/MalakhN/blob/main/Figma-Icon.svg" title="Figma" alt="git" width="60" height="60" /></a> &nbsp;
 <a href="https://postman.com"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="postman" width="60" height="60"/> </a>
 </p>
