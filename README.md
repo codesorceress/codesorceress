@@ -4,7 +4,6 @@
 
 I'm looking for opportunities that will help me grow as a professional and get some great experience
 
-
 <h2  align="left">Frontend languages and Tools:</h2>
 <p align="left">
 <a href="https://reactjs.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="reactnative" width="85" height="85" /></a> &nbsp;
@@ -16,7 +15,6 @@ I'm looking for opportunities that will help me grow as a professional and get s
 <a href="https://vitejs.dev"> <img src="https://vitejs.dev/logo.svg" title="Vite.js" alt="vitejs" width="75" height="75" /></a> &nbsp;
 </p>
 
-
 <h2 align="left">Backend languages and Tools:</h2>
 <p align="left">
 <a href="https://nodejs.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" title="Node.js" alt="nodejs" width="75" height="75" /></a> &nbsp;
@@ -24,12 +22,10 @@ I'm looking for opportunities that will help me grow as a professional and get s
 <a href="https://www.nginx.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" title="Nginx" alt="nginx" width="75" height="75" /></a> &nbsp;
 </p>
 
-
 <h2 align="left">Databases:</h2>
 <p align="left">
 <a href="https://www.mongodb.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" alt="mongodb" width="90" height="90" /></a> &nbsp;
 </p>
-
 
 <h2 align="left">Other:</h2>
 <p align="left">
@@ -37,7 +33,6 @@ I'm looking for opportunities that will help me grow as a professional and get s
 <a href="#"> <img src="https://github.com/MalakhN/MalakhN/blob/main/Figma-Icon.svg" title="Figma" alt="git" width="60" height="60" /></a> &nbsp;
 <a href="https://postman.com"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="postman" width="60" height="60"/> </a>
 </p>
-
 
 
 <h3  align="left">Connect with me:</h3>
