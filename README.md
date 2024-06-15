@@ -34,7 +34,6 @@ I'm looking for opportunities that will help me grow as a professional and get s
 <a href="https://postman.com"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="postman" width="60" height="60"/> </a>
 </p>
 
-
 <h3  align="left">Connect with me:</h3>
 <ul>
   <li>kristinafrdev@gmail.com</li>
